@@ -1,4 +1,11 @@
 <h1>Home AI - DoorMan</h1>
+<h2>Team Details</h2>
+<ul>
+  <li>Veeresha M thotigar</li>
+  <li>Hiresh Jakkala Bhaskar</li>
+  <li>Hongkun Jin</li>
+  <li>John Goza</li>
+  <ul>
 <h2> Problem Statement</h2>
 <ul>
   <li>Set up motion sensor, light, and camera at the front door.</li>
