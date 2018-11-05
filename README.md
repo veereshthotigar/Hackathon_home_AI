@@ -1,3 +1,2 @@
-# Hackathon_home_AI
+<h1>Home AI - DoorMan</h1>
 
-Code runs on raspberry pi!
