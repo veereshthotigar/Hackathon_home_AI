@@ -6,9 +6,9 @@
   <li>Hongkun Jin</li>
   <li>John Goza</li>
   </ul>
-  ---
-### Youtube Demo - https://www.youtube.com/watch?v=51acqs5Suqs&t=6s<br>
-### Presentation - https://docs.google.com/presentation/d/1CCoUS8pnQu3Eeur3hH-vWI99kkYMaEVAxwOaO2iTkmg/edit?usp=sharing
+
+<h3>Youtube Demo</h3> - https://www.youtube.com/watch?v=51acqs5Suqs&t=6s<br>
+<h3>Presentation</h3> - https://docs.google.com/presentation/d/1CCoUS8pnQu3Eeur3hH-vWI99kkYMaEVAxwOaO2iTkmg/edit?usp=sharing
 <h2> Problem Statement</h2>
 <ul>
   <li>Set up motion sensor, light, and camera at the front door.</li>
