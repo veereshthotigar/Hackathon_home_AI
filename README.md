@@ -5,7 +5,7 @@
   <li>Hiresh Jakkala Bhaskar</li>
   <li>Hongkun Jin</li>
   <li>John Goza</li>
-  <ul>
+  </ul>
 <h2> Problem Statement</h2>
 <ul>
   <li>Set up motion sensor, light, and camera at the front door.</li>
