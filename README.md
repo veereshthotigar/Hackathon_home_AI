@@ -7,3 +7,13 @@
 <li>Stretch Goal: Data will be sent to a visualization platform (like an application) with the picture and the time stamp.</li>
 <li>Create an application that can notify the user when someone has arrived.</li>
 </ul>
+<h2> Technology Used</h2>
+<ul>
+  <li>Raspberrypi</li>
+<li>Node RED platform</li>
+<li>Python</li>
+<li>Local server using Linux</li>
+<li>Motion sensor</li>
+<li>Camera</li>
+<li>Light</li>
+  </ul>
