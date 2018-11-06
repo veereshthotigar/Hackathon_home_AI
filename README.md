@@ -27,3 +27,9 @@
 <li>Camera</li>
 <li>Light</li>
   </ul>
+<h2> Instructions to setup </h2>
+<li> Since the project is based on the raspberry pi (with camera), please gain access to the configured hardware before attempting to replicate performance.</li>
+<li> To build project: </li>
+<li> Plugin raspberry pi</li>
+<li> start node-red then navigate to 127.0.0.1:1880/ui for the Dashboard </li>
+<li> This project includes app and text notifications!! To download the app or for your phone number to be added, contact any of the team members.</li>
