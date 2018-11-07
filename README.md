@@ -37,7 +37,7 @@
 <li> start node-red then navigate to 127.0.0.1:1880/ui for the Dashboard </li>
 <li> This project includes app and text notifications!! To download the app or for your phone number to be added, contact any of the team members.</li>
 
-<h3> App Setup <h3>
+<h2> App Setup </h2>
 <li> The app code link: https://github.com/veereshthotigar/Hackathon_home_AI/tree/master/src/App</li>
 <li> Download the code and run `npm install` and `ionic cordova prepare` Then the application is all set</li>
 <li> You could run `ionic cordova run browser` or `ionic cordova run android` to test the app</li>
