@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title text-center>Detail</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-item>
+    <img style="display: block;margin-left: auto; margin-right: auto;width: 240px; height: 240px;" [src]="'data:image/png;base64,' + imageData"/>
+  </ion-item>
+
+  <ion-list>
+    <ion-item>
+      Status of this image: <b>{{LabelId}}</b>
+    </ion-item>
+    <ion-item>
+      User ID of Doorman: <b>{{userId}}</b>
+    </ion-item>
+    <ion-item>
+      Timestamp: <b>{{date}}</b>
+    </ion-item>
+
+  </ion-list>
+  <!--<ion-list *ngFor="let item of Dresult">-->
+    <!--<ion-item>-->
+      <!--{{item.description}}-->
+    <!--</ion-item>-->
+  <!--</ion-list>-->
+
+</ion-content>

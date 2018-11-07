@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "489123086268",
+    "firebase_url": "https://asemax226.firebaseio.com",
+    "project_id": "asemax226",
+    "storage_bucket": "asemax226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489123086268:android:82b93cd6671bc591",
+        "android_client_info": {
+          "package_name": "io.ionic.ionicmax5551ase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489123086268-seli2h5mc947nuueubkr4q9c36dsrcep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.ionicmax5551ase",
+            "certificate_hash": "62a4c0ebc1e59caa644dccbc09287fecd151858d"
+          }
+        },
+        {
+          "client_id": "489123086268-j2sn6qdl0ofpdirikl38lgq13o48742a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM-8OAGOsrPY5mSPqQGdkJEW5AF2Ts5KY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489123086268-j2sn6qdl0ofpdirikl38lgq13o48742a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
