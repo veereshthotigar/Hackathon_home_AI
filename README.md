@@ -42,7 +42,7 @@
 <li> Download the code and run `npm install` and `ionic cordova prepare` Then the application is all set</li>
 <li> You could run `ionic cordova run browser` or `ionic cordova run android` to test the app</li>
 <li> The debug APK download link:https://github.com/veereshthotigar/Hackathon_home_AI/tree/IonicApp/src/App/APK_Android</li>
-<h3> App Notification  <h3>
+<h2> App Notification  </h2>
 <li> Node js code link: https://github.com/veereshthotigar/Hackathon_home_AI/tree/IonicApp/src/NodejsTrigger</li>
 <li> For database connection, deploy the function on heroku and using cron-job schedule running every minute</li>
 <li> Notification: using firebase cloud function to detect new data and send notification to user by app</li>
